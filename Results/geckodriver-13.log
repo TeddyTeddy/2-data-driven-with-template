@@ -1,0 +1,13 @@
+1585738418441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9CRrH5"
+1585738419147	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585738419220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585738419222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585738419222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585738419222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585738425088	Marionette	INFO	Listening on port 36145
+1585738425120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 51: TypeError: document.body is null
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: fbq is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: _smtr is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: _smtr is not defined
+1585738438386	Marionette	INFO	Stopped listening on port 36145

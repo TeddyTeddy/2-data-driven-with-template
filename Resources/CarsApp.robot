@@ -14,3 +14,9 @@ Attempt Login
 Verify Login Page Error Message
     [Arguments]     ${ExpectedErrorMessage}
     SignIn.Verify Error Message  ${ExpectedErrorMessage}
+
+User should see correct error message at login
+    [Arguments]     ${USER}
+    Navigate to Sign In Page
+    Attempt Login  ${USER}
+    Verify Login Page Error Message  ${USER.ExpectedErrorMessage}

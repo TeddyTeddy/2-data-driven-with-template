@@ -1,0 +1,20 @@
+1585744300378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ3sZHb"
+1585744300700	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585744300720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585744300721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585744300721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585744300721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585744303252	Marionette	INFO	Listening on port 38753
+1585744303314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 51: TypeError: document.body is null
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: fbq is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: _smtr is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: _smtr is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 51: TypeError: document.body is null
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: fbq is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: _smtr is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: _smtr is not defined
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 51: TypeError: document.body is null
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: fbq is not defined
+1585744322754	Marionette	INFO	Stopped listening on port 38753
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
