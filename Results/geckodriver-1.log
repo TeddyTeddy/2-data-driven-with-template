@@ -1,0 +1,11 @@
+1585733955413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePbzEIv"
+1585733955770	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585733955794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585733955794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585733955794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585733955794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585733958511	Marionette	INFO	Listening on port 39545
+1585733958543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 51: TypeError: document.body is null
+JavaScript error: https://www.cars.com/profile/secure/login/ line 5 > scriptElement, line 2: ReferenceError: fbq is not defined
+1585733964364	Marionette	INFO	Stopped listening on port 39545
